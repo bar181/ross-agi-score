@@ -9,7 +9,7 @@ May 11, 2024
 
 Version: 1.0  
 Draft Release Date: May 11, 2025  
-Stable Archive Copy – stored in /archive/ras_v1.0_final_may2025.md  
+Stable Archive Copy – stored in /archive/ras_v1.0_stable_may2025.md  
 
 ## Abstract
 
